@@ -1,10 +1,6 @@
-{
-  colors:}  
-}
-
 ,"css":
 {
-  colorsfont:{ background: #000000, chat: { ambassador: #89be6c, bouncer: #00bffe, cohost: #FFCC33, residentdj: #30cf23, host: #FFCC33, manager: #f85210, message: #B0B0B0 [ ], import: [ ], rule: { #footer: { background: "linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%)";
+ colorsfont:{ background: #000000, chat: { ambassador: #89be6c, bouncer: #29c1d6, cohost: #29c1d6, residentdj: #8e00ff, host: #FFCC33, manager: #d62929, message: #B0B0B0 [ ], import: [ ], rule: { #footer: { background: "linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%)";
 }
 
 ,"#playlist-button":
@@ -25,11 +21,6 @@
 ,"#plug-dj":
 {
   background:"linear-gradient(to bottom,#0268AC 0,#02225C 100%)";
-}
-
-,".header-panel-button.selected":
-{
-  background:"linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%)";
 }
 
 ,"#plug-menu":
@@ -82,11 +73,6 @@
   border-left:"#9600ff 3px solid !important", background-color: "rgba(150, 0, 255, 0.1) !important";
 }
 
-,".emote.from-5355957896fba56c3032daf0 .from.staff.clickable":
-{
-  color:"#d08eff !important";
-}
-
 ,".from-5355957896fba56c3032daf0 .from.staff.clickable":
 {
   display:none;
@@ -102,11 +88,6 @@
   font-style:normal, font-weight: bold, color: "#FF9900 !important";
 }
 
-,"#chat .from-5355957896fba56c3032daf0":
-{
-  color:"#d08eff !important";
-}
-
 ,"#chat .emote":
 {
   border-left:"rgba(174, 69, 189, 1) 3px solid !important", background-color: "rgba(190, 28, 213, 0.22) !important";
@@ -120,16 +101,6 @@
 ,"#chat .emote .text":
 {
   font-style:normal, font-weight: bold, color: #ac76ff;
-}
-
-,"#footer":
-{
-  background:"linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%)";
-}
-
-,"#playlist-button":
-{
-  background:"linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%)";
 }
 
 ,".social-menu .icon-twitter,.social-menu .icon-facebook":
@@ -152,24 +123,9 @@
   background:"rgba(50, 55, 66, 0.58)";
 }
 
-,"#search-bar":
-{
-  background:"rgba(17, 19, 23, 0.77)";
-}
-
-,"#filter-bar":
-{
-  background:"rgba(17, 19, 23, 0.77)";
-}
-
 ,"#playlist-edit-button":
 {
   background:"rgba(85, 93, 112, 0.75)";
-}
-
-,"#playlist-shuffle-button":
-{
-  background:"rgba(68, 74, 89, 0.75)";
 }
 
 ,"#playlist-delete-button":
@@ -182,58 +138,52 @@
   background:"rgba(28, 31, 37, 0.59)";
 }
 
-,"#dj-button.is-locked .left,#dj-button.is-full .left,#vote .crowd-response.disabled .bottom":
-{
-  background:"rgba(68, 74, 89, 0.75)";
-}
-
 ,"#dj-button.is-quit .left,#dj-button.is-leave .left,#playlist-delete-button:hover":
 {
   background:"linear-gradient(to bottom,rgba(244, 107, 64, 0.74) 0,rgba(240, 79, 48, 0.75) 100%)";
 }
 
-,"#chat .mention.from-5355957896fba56c3032daf0 > i":
+,"a[href='http://smitegame.com']":
 {
-  background-image:"url('http://danishdragon.com/plugdj/iconmanticore.png') !important", background-position: "0 0";
-}
-
-,"#chat .message.from-5355957896fba56c3032daf0 > i":
-{
-  background-image:"url('http://danishdragon.com/plugdj/iconmanticore.png') !important", background-position: "0 0";
-}
-
-,"#chat .emote.from-5355957896fba56c3032daf0 > i":
-{
-  background-image:"url('http://danishdragon.com/plugdj/iconmanticore.png') !important", background-position: "0 0";
-}
-
-,"#chat .message.from-5355957896fba56c3032daf0 .from.manager.clickable":
-{
-  color:"#9600ff !important";
-}
-
-,"#chat .mention.from-5355957896fba56c3032daf0 .from.manager.clickable":
-{
-  color:"#9600ff !important";
-}
-
-,"a[href='twitch.tv/twitchplayspokemon']":
-{
-  display:inline-block, width: 276px height: 219px background: "url('http://i.imgur.com/wcX2BKU.gif') no-repeat", text-indent: -10000000px;
-}  
-}
-
-  
+  display:inline-block, width: 263px height: 90px background: "url('http://i.imgur.com/7Vxv2rg.gif') no-repeat", text-indent: -10000000px;
 }
 
 ,"images":
 {
-  background:http://i.imgur.com/mpf03Ga.png, booth: , icons: { ambassador: http://i.imgur.com/OpSjEV1.png, bouncer: http://i.imgur.com/ueURBWt.png, cohost: http://i.imgur.com/X4p7h5G.png, host:http://i.imgur.com/1FEBcUn.png, manager: http://i.imgur.com/bMXsOyK.png, residentdj: http://i.imgur.com/x50Pu0r.png;
-}  
+  background:http://i.imgur.com/mpf03Ga.png, booth: , icons: { ambassador: http://i.imgur.com/OpSjEV1.png, bouncer: http://i.imgur.com/53O14ge.png, cohost: http://i.imgur.com/ZGqlQ1j.png, host: http://i.imgur.com/TBQ9qnU.png, manager: http://i.imgur.com/RDS7TwD.png, residentdj:;
 }
 
 ,"rules":
 {
   allowautorespond:true, allowAutowoot: true, allowAutojoin: true;
-}  
+}
+
+,".header-panel-button.selected":,,"#footer":
+{
+  background:"linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%)";
+}
+
+,".emote.from-5355957896fba56c3032daf0 .from.staff.clickable":,,"#chat .from-5355957896fba56c3032daf0":
+{
+  color:"#d08eff !important";
+}
+
+,"#search-bar":,,"#filter-bar":
+{
+  background:"rgba(17, 19, 23, 0.77)";
+}
+
+,"#playlist-shuffle-button":,,"#dj-button.is-locked .left,#dj-button.is-full .left,#vote .crowd-response.disabled .bottom":
+{
+  background:"rgba(68, 74, 89, 0.75)";
+}
+
+,"#chat .mention.from-5355957896fba56c3032daf0 > i":,,"#chat .message.from-5355957896fba56c3032daf0 > i":,,"#chat .emote.from-5355957896fba56c3032daf0 > i":
+{
+  background-image:"url('http://danishdragon.com/plugdj/iconmanticore.png') !important", background-position: "0 0";
+}
+
+,"#chat .message.from-5355957896fba56c3032daf0 .from.manager.clickable":,,"#chat .mention.from-5355957896fba56c3032daf0 .from.manager.clickable":
+{
+  color:"#9600ff !important";
 }
